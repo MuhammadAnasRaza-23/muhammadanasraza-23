@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Anas Raza 👋
+# Hi, I am Muhammad Anas Raza 👋
 
 I am an aspiring Full-Stack Web Developer and A-Levels student based in Karachi, Pakistan. I bridge the gap between technical execution, structured leadership, and education.
 
