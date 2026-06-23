@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Anas Raza 👋
 
-I'm an aspiring Full-Stack Web Developer and A-Levels student based in Karachi, Pakistan. I bridge the gap between technical execution, structured leadership, and education.
+I am an aspiring Full-Stack Web Developer and A-Levels student based in Karachi, Pakistan. I bridge the gap between technical execution, structured leadership, and education.
 
 - 🛠️ **Tech Stack:** HTML5, CSS3, Bootstrap 5, and JavaScript (ES6+).
 - 🎓 **Education:** Pursuing my Full-Stack Web Development Diploma at SMIT alongside my A-Levels (Expected 2027).
